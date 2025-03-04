@@ -15,7 +15,7 @@
 To use **Harmonic Swarm Intelligence**, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/harmonic-swarm-intelligence.git
+git clone https://github.com/richardaragon/harmonicswarmintelligence.git
 cd harmonic-swarm-intelligence
 pip install -r requirements.txt
 ```
