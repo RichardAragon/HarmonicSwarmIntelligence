@@ -72,8 +72,4 @@ We welcome contributions! To contribute:
 ## Acknowledgments
 Special thanks to the research community exploring **AI Geometry, resonance-based intelligence, and swarm learning.** Your work continues to inspire new frontiers in AI and computational intelligence.
 
-## Contact
-For discussions, contributions, or collaboration inquiries, reach out at **[your.email@example.com]** or open an issue in the GitHub repository.
 
----
-🚀 **Harmonic Swarm Intelligence**: Unlocking the Future of AI Through Resonance and Swarm Perception.
